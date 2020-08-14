@@ -5,7 +5,7 @@ The basic design was a laser gun that can shoot 3 lasers with one pull, but has 
 
 The gun's heat is in the upper left corner. Shoot too fast and it will overheat, which means you have to wait until the heat dissipates.
 
-You can find a playable demo on the project's itch.io page here: https://mpaul0416.itch.io/side-quest-stream-project-laser-gun
+You can find a playable demo on the project's itch.io page here: https://mpaul0416.itch.io/side-quest-stream-project-laser-gun.
 The art assets came from Adam Atomic here: http://adamatomic.com/bomberplanet/assets.html
 
 # Challenge
