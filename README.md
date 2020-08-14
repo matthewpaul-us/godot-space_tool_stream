@@ -12,6 +12,7 @@ Hello @everyone! The theme for this week's mini challenges is :ringed_planet: Sc
 
 -----------------------------------------------------------------
 :star: Mini Challenge Number 4 with @Gilbrilthor :star: 
+
 -----------------------------------------------------------------
 
 You've been asked to help colonize a new planet! :globe_with_meridians: For today's challenge, you will design either a tool or a weapon to assist colonists on the planet they will be sent to.
